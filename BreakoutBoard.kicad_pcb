@@ -214,7 +214,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 0 -1.43 0)
+			(at -0.019 1.694 0)
 			(layer "User.5")
 			(uuid "9bb79030-7b5c-4aec-82b4-b76d8a3b8daa")
 			(effects
@@ -850,7 +850,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J4"
-			(at 1.27 -2.38 0)
+			(at 1.5 2.26 0)
 			(layer "User.5")
 			(uuid "82b4c467-1725-462a-8147-6eee9b6a191d")
 			(effects
@@ -1180,7 +1180,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J11"
-			(at 0 -2.38 90)
+			(at 0.06 1.8 180)
 			(layer "User.5")
 			(uuid "88ce3358-f0f0-4497-993f-e5b2bb35a375")
 			(effects
@@ -1743,15 +1743,15 @@
 			(uuid "13e75e0a-2028-48c9-834f-3b78104fcfd0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal.step"
+		(model "${KIPRJMOD}/3D/PJ-063AH.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -12 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1762,7 +1762,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -1.17 90)
+			(at -2.679 -0.097 90)
 			(layer "User.5")
 			(uuid "7a53ee9a-8ee0-48c7-ae5a-0ecaef673a6c")
 			(effects
@@ -1974,7 +1974,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 -1.68 90)
+			(at -3.581 0.082 90)
 			(layer "User.5")
 			(uuid "e86d8226-1a32-49e2-abab-d072cdadf26f")
 			(effects
@@ -2186,7 +2186,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J2"
-			(at 1.27 -2.38 90)
+			(at 1 2.8 180)
 			(layer "User.5")
 			(uuid "5526bcb3-8da1-42da-92d9-7881bbb96561")
 			(effects
@@ -2516,7 +2516,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 0 -1.43 90)
+			(at 0.1 1.76 90)
 			(layer "User.5")
 			(uuid "da56c822-646d-4fc8-85cd-71d579c252dd")
 			(effects
@@ -2763,7 +2763,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R13"
-			(at 0 -1.17 90)
+			(at 2.992 -0.06 90)
 			(layer "User.5")
 			(uuid "fb9db876-540d-4772-add0-1146fd7357c7")
 			(effects
@@ -3092,7 +3092,7 @@
 		(descr "Through hole straight pin header, 2x10, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x10 2.54mm double row")
 		(property "Reference" "J9"
-			(at 1.27 -2.38 0)
+			(at 1.3 9.8 0)
 			(layer "User.5")
 			(uuid "84dd66f8-0f00-4bf1-88db-9e7ea5907f47")
 			(effects
@@ -3788,7 +3788,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 -1.17 0)
+			(at 2.204 0.152 0)
 			(layer "User.5")
 			(uuid "a495a3e6-a3a2-434e-bd56-a66533079613")
 			(effects
@@ -4115,7 +4115,7 @@
 		(uuid "3d98659a-b087-4e1a-b2ab-22b22ec47922")
 		(at 154.055 94.438 -90)
 		(property "Reference" "U1"
-			(at 0.765 -2.135 90)
+			(at 3.762 -0.045 90)
 			(layer "User.5")
 			(uuid "602e474a-3ee6-42f4-8a6b-05429347e6f4")
 			(effects
@@ -4339,7 +4339,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D3"
-			(at 0 -1.43 0)
+			(at -2.8 -0.1 0)
 			(layer "User.5")
 			(uuid "70d55577-c2ac-4779-b78f-6e3dc673a946")
 			(effects
@@ -4586,7 +4586,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW2"
-			(at 3.25 -2 90)
+			(at 3 1.8 90)
 			(layer "User.5")
 			(uuid "083c4018-9361-415e-8682-d59d718d8aad")
 			(effects
@@ -5464,7 +5464,7 @@
 		(descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0 -2.3 90)
+			(at -3.647 0.024 90)
 			(layer "User.5")
 			(uuid "090f5b5b-3adc-4e15-b0dd-0021e1b76a33")
 			(effects
@@ -5676,7 +5676,7 @@
 		(descr "Inductor, Wuerth, MAPI-4030, 4.1x4.1x3.1mm, (https://www.we-online.com/en/components/products/WE-MAPI?kicad), generated with kicad-footprint-generator gen_inductor.py")
 		(tags "Würth -SMT")
 		(property "Reference" "L1"
-			(at 0 -3 90)
+			(at 4.3676 0.048 90)
 			(layer "User.5")
 			(uuid "7af82009-ecab-4c03-a418-c41a124e0204")
 			(effects
@@ -5852,7 +5852,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 -1.43 90)
+			(at -0.012 1.884 90)
 			(layer "User.5")
 			(uuid "0df8f6d2-63db-426b-9baf-ca86a8c3cfeb")
 			(effects
@@ -6064,7 +6064,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 -1.17 0)
+			(at 2.204 -0.078 0)
 			(layer "User.5")
 			(uuid "d4859146-1203-4c8a-9fd2-0441e51f71be")
 			(effects
@@ -6393,7 +6393,7 @@
 		(descr "Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, thermal vias, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)")
 		(tags "HSOP 1.27")
 		(property "Reference" "U2"
-			(at 0 -3.5 0)
+			(at 0.048 1.192 0)
 			(layer "User.5")
 			(uuid "ba1d45b0-040e-4112-ac75-3fb5e337e16a")
 			(effects
@@ -6704,7 +6704,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 0 -1.43 0)
+			(at -0.019 -1.838 0)
 			(layer "User.5")
 			(uuid "328cc2c7-db3f-442c-b44b-76b12f913109")
 			(effects
@@ -7784,7 +7784,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.43 0)
+			(at 2.887 0.057 0)
 			(layer "User.5")
 			(uuid "0e3c37b9-d858-415b-ac42-1d1eb8fc5cef")
 			(effects
@@ -8208,7 +8208,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
-			(at 0 -1.17 90)
+			(at 2.992 -0.217 90)
 			(layer "User.5")
 			(uuid "41ed0595-3b14-40e9-a73e-d6c6ecd2e4f9")
 			(effects
@@ -8632,7 +8632,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R9"
-			(at 0 -1.17 90)
+			(at 2.779 -0.417 90)
 			(layer "User.5")
 			(uuid "3c761bc7-131a-4256-855c-1f6e516303e6")
 			(effects
@@ -8844,7 +8844,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 -1.43 90)
+			(at 3.157 -0.051 90)
 			(layer "User.5")
 			(uuid "5a2b3452-2202-4130-81f9-d28db4f6d2da")
 			(effects
@@ -9056,7 +9056,7 @@
 		(descr "Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf")
 		(tags "RJ45 8p8c ethernet cat5")
 		(property "Reference" "J5"
-			(at 3.56 -9.5 0)
+			(at 2 0.1 0)
 			(layer "User.5")
 			(uuid "c795001e-528e-426c-8f8d-01c45515f6b9")
 			(effects
@@ -9486,7 +9486,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
-			(at 0 -1.43 0)
+			(at -2.8 -0.1 0)
 			(layer "User.5")
 			(uuid "b83d925c-2c9c-446c-ad29-65302309175b")
 			(effects
@@ -9733,7 +9733,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.16 90)
+			(at -2.679 0.16 90)
 			(layer "User.5")
 			(uuid "f609199c-9f86-49d3-bdc6-736380682ece")
 			(effects
@@ -9945,7 +9945,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW1"
-			(at 3.25 -2 90)
+			(at 3.8 1.9 90)
 			(layer "User.5")
 			(uuid "a7578587-eaf1-401a-bcf4-0f474d7f872a")
 			(effects
@@ -10305,7 +10305,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J10"
-			(at 1.27 -2.38 90)
+			(at 1.2 2.6 180)
 			(layer "User.5")
 			(uuid "36cb4ed1-a9c5-4d23-9b0c-7fd7d00af864")
 			(effects
@@ -10635,7 +10635,7 @@
 		(descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 0 -2.3 90)
+			(at -3.647 0.053 90)
 			(layer "User.5")
 			(uuid "29f6d1ad-c8c0-4b3e-adcd-27b5c05a181b")
 			(effects
@@ -10847,7 +10847,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R11"
-			(at 0 -1.17 90)
+			(at 3.148 0.06 90)
 			(layer "User.5")
 			(uuid "cf03bae8-5267-4a2f-a2b1-82f82609dba2")
 			(effects
@@ -11176,7 +11176,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R10"
-			(at 0 -1.17 90)
+			(at 3.148 0.317 90)
 			(layer "User.5")
 			(uuid "3ec8b39f-7a07-43d9-bcdc-b0c3daf32bef")
 			(effects
@@ -11388,7 +11388,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J6"
-			(at 1.27 -2.38 90)
+			(at 1 2.7 180)
 			(layer "User.5")
 			(uuid "ccdba1ed-9096-4bbc-a09c-00d323bc1bbf")
 			(effects
@@ -11718,7 +11718,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.17 90)
+			(at 2.619 -0.304 90)
 			(layer "User.5")
 			(uuid "05929b06-bb4a-4444-ad25-359f6ee558b8")
 			(effects
@@ -11930,7 +11930,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
-			(at 0 -1.43 90)
+			(at 0 -1.7 90)
 			(layer "User.5")
 			(uuid "bcdb09bb-8502-4099-88d5-81adf81ba9f4")
 			(effects
@@ -12177,7 +12177,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J3"
-			(at 1.27 -2.38 90)
+			(at 0.9 2.8 180)
 			(layer "User.5")
 			(uuid "40f6f311-9d31-4df0-82ae-a742a0ce68dd")
 			(effects

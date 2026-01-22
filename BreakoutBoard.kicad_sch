@@ -8872,7 +8872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 107.95 52.07 0)
 			(effects
 				(font
@@ -9259,7 +9259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 110.49 114.3 0)
 			(effects
 				(font
@@ -10078,7 +10078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 99.06 114.3 0)
 			(effects
 				(font
@@ -11152,7 +11152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 93.98 52.07 0)
 			(effects
 				(font
