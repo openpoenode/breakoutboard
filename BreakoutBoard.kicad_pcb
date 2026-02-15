@@ -2537,7 +2537,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4360,7 +4360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4633,7 +4633,7 @@
 				)
 			)
 		)
-		(property "MOUSER#" "179-TS026643BK100SCR"
+		(property "MOUSER#" "179-TS026643BK100LCR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9103,7 +9103,7 @@
 				)
 			)
 		)
-		(property "MOUSER#" "523-RJHSE-5384"
+		(property "MOUSER#" "523-RJHSE-5381"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9507,7 +9507,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9992,7 +9992,7 @@
 				)
 			)
 		)
-		(property "MOUSER#" "179-TS026643BK100SCR"
+		(property "MOUSER#" "179-TS026643BK100LCR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11951,7 +11951,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Data Sheets\\LS_Q976.01_EN.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13005,7 +13005,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "34"
+	(gr_text "18"
 		(at 165 131.66 180)
 		(layer "F.SilkS" knockout)
 		(uuid "e4c88a11-8d71-4e06-91ea-e78cb120f867")
@@ -13057,7 +13057,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "18"
+	(gr_text "34"
 		(at 165 126.58 180)
 		(layer "F.SilkS" knockout)
 		(uuid "fc323398-fa90-47af-9d0c-63618fe4207d")
