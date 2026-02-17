@@ -13122,6 +13122,19 @@
 			(justify right mirror)
 		)
 	)
+	(gr_text "REV ${REVISION}"
+		(at 121 144 0)
+		(layer "B.SilkS" knockout)
+		(uuid "34104b55-296f-4fa3-b445-4326e53c0905")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.28)
+				(bold yes)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "SW2"
 		(at 168 126.58 -180)
 		(layer "B.SilkS" knockout)
