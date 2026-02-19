@@ -1456,7 +1456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 149.86 68.8848 0)
 			(effects
 				(font
@@ -1483,7 +1483,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "810-CGA3E2X7R1H104K"
+		(property "MOUSER#" "581-KGM21NR71H104KT"
 			(at 146.05 69.85 0)
 			(effects
 				(font
@@ -1965,7 +1965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.102 96.52 90)
 			(effects
 				(font
@@ -1992,7 +1992,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "667-ERJ-2RKF4322X"
+		(property "MOUSER#" "603-RC0805FR-0743K2L"
 			(at 182.88 96.52 0)
 			(effects
 				(font
@@ -2050,7 +2050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.102 83.82 90)
 			(effects
 				(font
@@ -2077,7 +2077,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "603-AC0402FR-13100KL"
+		(property "MOUSER#" "603-RE0805FRE07100KL"
 			(at 182.88 83.82 0)
 			(effects
 				(font
@@ -2305,7 +2305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 112.7252 99.06 0)
 			(effects
 				(font
@@ -2332,7 +2332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "80-C0603C105K8PAC"
+		(property "MOUSER#" "187-CL21B105KAFNNNE"
 			(at 111.76 95.25 0)
 			(effects
 				(font
@@ -2390,7 +2390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 223.2152 93.98 0)
 			(effects
 				(font
@@ -2417,7 +2417,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "810-CGA3E2X7R1H104K"
+		(property "MOUSER#" "581-KGM21NR71H104KT"
 			(at 222.25 90.17 0)
 			(effects
 				(font
@@ -2475,7 +2475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 172.4152 87.63 0)
 			(effects
 				(font
@@ -2502,7 +2502,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "963-UMK105CG330JV-F"
+		(property "MOUSER#" "80-C0805C330J5GACLR"
 			(at 171.45 83.82 0)
 			(effects
 				(font

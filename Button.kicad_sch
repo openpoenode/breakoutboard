@@ -853,7 +853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 147.32 94.488 90)
 			(effects
 				(font
@@ -880,7 +880,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "603-RC0402FR-131KL"
+		(property "MOUSER#" "603-RC0805FR-101KL"
 			(at 147.32 92.71 0)
 			(effects
 				(font
@@ -1157,7 +1157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 153.162 85.09 90)
 			(effects
 				(font
@@ -1184,7 +1184,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "603-RE0402FRE0710KL"
+		(property "MOUSER#" "603-RC0805FR-7W10KL"
 			(at 154.94 85.09 0)
 			(effects
 				(font
@@ -1321,7 +1321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 155.9052 104.14 0)
 			(effects
 				(font
@@ -1348,7 +1348,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "810-CGA3E2X7R1H104K"
+		(property "MOUSER#" "581-KGM21NR71H104KT"
 			(at 154.94 100.33 0)
 			(effects
 				(font
