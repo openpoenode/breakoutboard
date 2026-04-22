@@ -7,7 +7,6 @@
 	(title_block
 		(date "${CURRENT_DATE}")
 		(rev "${REVISION}")
-		(comment 1 "LICENSED under CERN-OHL-S-2.0")
 	)
 	(lib_symbols
 		(symbol "Device:C"
